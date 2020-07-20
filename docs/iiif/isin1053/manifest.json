@@ -1,0 +1,179 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1053/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "富士山諸人参詣之図",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "番号",
+            "value": "53"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　一"
+        },
+        {
+            "label": "画工",
+            "value": "一雄国輝"
+        },
+        {
+            "label": "時代",
+            "value": "慶応１、６"
+        },
+        {
+            "label": "西暦",
+            "value": " "
+        },
+        {
+            "label": "版元名",
+            "value": "＃英屋文蔵"
+        },
+        {
+            "label": "版元住所",
+            "value": " "
+        },
+        {
+            "label": "版数",
+            "value": " "
+        },
+        {
+            "label": "刷数",
+            "value": " "
+        },
+        {
+            "label": "刷版",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵"
+        },
+        {
+            "label": "形態２",
+            "value": "３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印",
+            "value": "丑六改"
+        },
+        {
+            "label": "彫工",
+            "value": " "
+        },
+        {
+            "label": "主題_主題",
+            "value": "【主題分類】ええじゃないか／世直し↓"
+        },
+        {
+            "label": "分類細目_細目",
+            "value": "【分類細目】風刺画↓"
+        },
+        {
+            "label": "主題２_主題",
+            "value": "【主題分類】金融／物価↓"
+        },
+        {
+            "label": "分類細目２_細目",
+            "value": "【分類細目】風刺画↓"
+        },
+        {
+            "label": "固有件名",
+            "value": "（その他）富士山"
+        },
+        {
+            "label": "書誌事項",
+            "value": " "
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/isin1053/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1053/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1345,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin1053/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin1053/canvas/p1",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000081.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1345,
+                                "width": 878
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/c0000081.jpg"
+                    },
+                    "width": 878
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1053/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1348,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin1053/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin1053/canvas/p2",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000080.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1348,
+                                "width": 868
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/c0000080.jpg"
+                    },
+                    "width": 868
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1053/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1348,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin1053/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin1053/canvas/p3",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000079.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1348,
+                                "width": 876
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/c0000079.jpg"
+                    },
+                    "width": 876
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/c0000081.jpg"
+}

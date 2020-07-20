@@ -1,0 +1,150 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2013/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当り鬮講母子の寄合",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "番号",
+            "value": "13"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　二"
+        },
+        {
+            "label": "画工",
+            "value": " "
+        },
+        {
+            "label": "時代",
+            "value": "（明治１）"
+        },
+        {
+            "label": "西暦",
+            "value": " "
+        },
+        {
+            "label": "版元名",
+            "value": " "
+        },
+        {
+            "label": "版元住所",
+            "value": " "
+        },
+        {
+            "label": "版数",
+            "value": " "
+        },
+        {
+            "label": "刷数",
+            "value": " "
+        },
+        {
+            "label": "刷版",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵"
+        },
+        {
+            "label": "形態２",
+            "value": "２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印",
+            "value": "なし"
+        },
+        {
+            "label": "彫工",
+            "value": " "
+        },
+        {
+            "label": "主題_主題",
+            "value": "【主題分類】戊辰戦争／↓"
+        },
+        {
+            "label": "分類細目_細目",
+            "value": "【分類細目】風刺画↓"
+        },
+        {
+            "label": "固有件名",
+            "value": " "
+        },
+        {
+            "label": "書誌事項",
+            "value": "東方は　一橋、桑名、仙台、庄内、天璋院、和宮、会津、田安、西方は明治天皇、薩、長、土、尾張、藤堂、彦根、加賀、「取やらぬ寄りによりたるそのなかに実を取人は唯の壱人」とあり"
+        },
+        {
+            "label": "書誌事項続き",
+            "value": "宮）　いせや（〓）つた　ろうそくや（会津）　近江や（立花もん）　〓は細川か？　〓は南部か田安か　梅干や（加賀）〓梅　「取やらぬ寄りによりたるそのなかに実を取人〓唯の壱人」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/isin2013/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2013/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1343,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin2013/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin2013/canvas/p1",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin2l/ld000030.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1343,
+                                "width": 869
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/d0000030.jpg"
+                    },
+                    "width": 869
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2013/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1346,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin2013/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin2013/canvas/p2",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin2l/ld000029.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1346,
+                                "width": 866
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/d0000029.jpg"
+                    },
+                    "width": 866
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/d0000030.jpg"
+}

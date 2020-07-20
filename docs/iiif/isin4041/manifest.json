@@ -1,0 +1,133 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4041/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京開化名勝記雑司ヶ谷道山吹之井戸",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "番号",
+            "value": "41"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　四"
+        },
+        {
+            "label": "画工",
+            "value": "惺々暁斎、孟斎"
+        },
+        {
+            "label": "時代",
+            "value": "明治６、８"
+        },
+        {
+            "label": "西暦",
+            "value": "0"
+        },
+        {
+            "label": "版元名",
+            "value": "沢村板"
+        },
+        {
+            "label": "版元住所",
+            "value": " "
+        },
+        {
+            "label": "版数",
+            "value": " "
+        },
+        {
+            "label": "刷数",
+            "value": " "
+        },
+        {
+            "label": "刷版",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵"
+        },
+        {
+            "label": "形態２",
+            "value": "１枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印",
+            "value": "酉八"
+        },
+        {
+            "label": "彫工",
+            "value": " "
+        },
+        {
+            "label": "主題_主題",
+            "value": "【主題分類】風景画／名所図絵↓"
+        },
+        {
+            "label": "分類細目_細目",
+            "value": "【分類細目】風景画↓"
+        },
+        {
+            "label": "主題２_主題",
+            "value": "【主題分類】歴史画／↓"
+        },
+        {
+            "label": "分類細目２_細目",
+            "value": "【分類細目】風景画↓"
+        },
+        {
+            "label": "固有件名",
+            "value": "（地名）雑司谷↓（人名）太田道灌その他）山吹の井戸"
+        },
+        {
+            "label": "書誌事項",
+            "value": " "
+        },
+        {
+            "label": "書誌事項続き",
+            "value": " "
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/isin4041/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4041/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1276,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin4041/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin4041/canvas/p1",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin4l/lf000086.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1276,
+                                "width": 871
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/f0000086.jpg"
+                    },
+                    "width": 871
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/f0000086.jpg"
+}

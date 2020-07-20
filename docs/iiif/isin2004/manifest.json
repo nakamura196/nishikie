@@ -1,0 +1,146 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2004/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "（髪結床に諸人集うの図）",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "番号",
+            "value": "4"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　二"
+        },
+        {
+            "label": "画工",
+            "value": "梅玉戯筆"
+        },
+        {
+            "label": "時代",
+            "value": "明治１、９"
+        },
+        {
+            "label": "西暦",
+            "value": " "
+        },
+        {
+            "label": "版元名",
+            "value": "＃木屋作太郎"
+        },
+        {
+            "label": "版元住所",
+            "value": " "
+        },
+        {
+            "label": "版数",
+            "value": " "
+        },
+        {
+            "label": "刷数",
+            "value": " "
+        },
+        {
+            "label": "刷版",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵"
+        },
+        {
+            "label": "形態２",
+            "value": "２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印",
+            "value": "辰九改"
+        },
+        {
+            "label": "彫工",
+            "value": " "
+        },
+        {
+            "label": "主題_主題",
+            "value": "【主題分類】戊辰戦争／↓"
+        },
+        {
+            "label": "分類細目_細目",
+            "value": "【分類細目】風刺画↓"
+        },
+        {
+            "label": "固有件名",
+            "value": "（その他）髪結床"
+        },
+        {
+            "label": "書誌事項",
+            "value": "髪結は会、酒、米"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/isin2004/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2004/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1346,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin2004/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin2004/canvas/p1",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin2l/ld000015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1346,
+                                "width": 871
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/d0000015.jpg"
+                    },
+                    "width": 871
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2004/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1341,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin2004/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin2004/canvas/p2",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin2l/ld000014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1341,
+                                "width": 868
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/d0000014.jpg"
+                    },
+                    "width": 868
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/d0000015.jpg"
+}

@@ -1,0 +1,125 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4038/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "丙午歳５月１６日土水性の人うけニ入",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "番号",
+            "value": "38"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　四"
+        },
+        {
+            "label": "画工",
+            "value": "豊国門人一寿斎国政画"
+        },
+        {
+            "label": "時代",
+            "value": "（弘化３年）"
+        },
+        {
+            "label": "西暦",
+            "value": " "
+        },
+        {
+            "label": "版元名",
+            "value": "高友"
+        },
+        {
+            "label": "版元住所",
+            "value": " "
+        },
+        {
+            "label": "版数",
+            "value": " "
+        },
+        {
+            "label": "刷数",
+            "value": " "
+        },
+        {
+            "label": "刷版",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵"
+        },
+        {
+            "label": "形態２",
+            "value": "１枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印",
+            "value": "渡"
+        },
+        {
+            "label": "彫工",
+            "value": " "
+        },
+        {
+            "label": "主題_主題",
+            "value": "【主題分類】暦／有卦絵↓"
+        },
+        {
+            "label": "分類細目_細目",
+            "value": "【分類細目】細目なし↓"
+        },
+        {
+            "label": "固有件名",
+            "value": "（人名）華月堂北雅"
+        },
+        {
+            "label": "書誌事項",
+            "value": "土水の恵みをうけて藤の花　華月堂北雅印　丙午は弘化３年"
+        },
+        {
+            "label": "書誌事項続き",
+            "value": " "
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/isin4038/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4038/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 887,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin4038/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin4038/canvas/p1",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin4l/lf000081.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 887,
+                                "width": 1277
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/f0000081.jpg"
+                    },
+                    "width": 1277
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/f0000081.jpg"
+}

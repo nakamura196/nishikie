@@ -1,0 +1,175 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "東京家宝力競（とうけいかはうちからくらべ）",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "番号",
+            "value": "42"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　四"
+        },
+        {
+            "label": "画工",
+            "value": "応需周重筆印"
+        },
+        {
+            "label": "時代",
+            "value": "（明治７年カ）"
+        },
+        {
+            "label": "西暦",
+            "value": " "
+        },
+        {
+            "label": "版元名",
+            "value": " "
+        },
+        {
+            "label": "版元住所",
+            "value": " "
+        },
+        {
+            "label": "版数",
+            "value": " "
+        },
+        {
+            "label": "刷数",
+            "value": " "
+        },
+        {
+            "label": "刷版",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵"
+        },
+        {
+            "label": "形態２",
+            "value": "３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印",
+            "value": "なし"
+        },
+        {
+            "label": "彫工",
+            "value": " "
+        },
+        {
+            "label": "主題_主題",
+            "value": "【主題分類】商業／長者↓"
+        },
+        {
+            "label": "分類細目_細目",
+            "value": "【分類細目】細目なし↓"
+        },
+        {
+            "label": "固有件名",
+            "value": "（人名）三谷三九郎↓（その他）丁吟／三井／白木屋／大丸／松坂屋"
+        },
+        {
+            "label": "書誌事項",
+            "value": "三谷のことばに「こいつハ一ばんしくぢった人も三谷だがいぶんのわりひ」とあり→明治７か　池田屋対伊勢吉　高崎対木場鹿嶋　えひすや対田端屋　鹿嶋対鴻磯　中条対竹原　小津対柏屋　大六対丁吟　井善対三ツ井　田庄対石町大三　三谷対仙波　よしや対キイ（かつおぶし）　"
+        },
+        {
+            "label": "書誌事項続き",
+            "value": "内町和泉屋対ての字　大丸対下谷板坂・蔵前中川・浅草のよしのや・青物町の田原や・日本ばし白木や"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1281,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin4042/canvas/p1",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin4l/lf000089.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1281,
+                                "width": 872
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/f0000089.jpg"
+                    },
+                    "width": 872
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1274,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin4042/canvas/p2",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin4l/lf000088.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1274,
+                                "width": 865
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/f0000088.jpg"
+                    },
+                    "width": 865
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1280,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin4042/canvas/p3",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin4l/lf000087.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1280,
+                                "width": 867
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/f0000087.jpg"
+                    },
+                    "width": 867
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/f0000089.jpg"
+}
