@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin2085/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "道成寺つりがねこんりう",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -22,24 +24,8 @@
             "value": "文久１、１２"
         },
         {
-            "label": "西暦",
-            "value": " "
-        },
-        {
             "label": "版元名",
             "value": "正文堂"
-        },
-        {
-            "label": "版元住所",
-            "value": " "
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -62,28 +48,12 @@
             "value": "酉十二改"
         },
         {
-            "label": "彫工",
-            "value": " "
-        },
-        {
             "label": "主題_主題",
             "value": "【主題分類】金融／貨幣↓"
         },
         {
             "label": "分類細目_細目",
             "value": "【分類細目】風刺画↓"
-        },
-        {
-            "label": "固有件名",
-            "value": " "
-        },
-        {
-            "label": "書誌事項",
-            "value": " "
-        },
-        {
-            "label": "書誌事項続き",
-            "value": " "
         }
     ],
     "sequences": [

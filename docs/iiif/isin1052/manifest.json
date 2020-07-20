@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin1052/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "諸物大樹にあげられるの図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -22,24 +24,12 @@
             "value": "慶応１、１２"
         },
         {
-            "label": "西暦",
-            "value": " "
-        },
-        {
             "label": "版元名",
             "value": "＃丸平（丸屋平次郎）"
         },
         {
             "label": "版元住所",
             "value": "（日本橋）榑正町"
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -60,10 +50,6 @@
         {
             "label": "検印",
             "value": "丑十二改"
-        },
-        {
-            "label": "彫工",
-            "value": " "
         },
         {
             "label": "主題_主題",

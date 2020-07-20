@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin4038/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "丙午歳５月１６日土水性の人うけニ入",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -22,24 +24,8 @@
             "value": "（弘化３年）"
         },
         {
-            "label": "西暦",
-            "value": " "
-        },
-        {
             "label": "版元名",
             "value": "高友"
-        },
-        {
-            "label": "版元住所",
-            "value": " "
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -62,10 +48,6 @@
             "value": "渡"
         },
         {
-            "label": "彫工",
-            "value": " "
-        },
-        {
             "label": "主題_主題",
             "value": "【主題分類】暦／有卦絵↓"
         },
@@ -80,10 +62,6 @@
         {
             "label": "書誌事項",
             "value": "土水の恵みをうけて藤の花　華月堂北雅印　丙午は弘化３年"
-        },
-        {
-            "label": "書誌事項続き",
-            "value": " "
         }
     ],
     "sequences": [

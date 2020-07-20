@@ -68,7 +68,10 @@ for id in files:
             for tr2 in trs2:
                 tds = tr2.find_all("td")
                 label2 = tds[0].text
-                value2 = tds[1].text
+                value2 = tds[1].text.strip()
+
+                if value2 == "":
+                    continue
                 
 
                 if label2 == "タイトル":
@@ -142,6 +145,8 @@ for id in files:
                 "label": label,
                 "thumbnail": thumbnail,
                 "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                "attribution": "東京大学史料編纂所",
+                "license" : "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
                 "sequences": [
                     {
                         "@id": prefix + "/" + id2 + "/sequence/normal",
@@ -168,6 +173,6 @@ for id in files:
 
 
 
-fw = open("../data/top.json", 'w')
+fw = open("../docs/iiif/top.json", 'w')
 json.dump(top, fw, ensure_ascii=False, indent=4,
           sort_keys=True, separators=(',', ': '))

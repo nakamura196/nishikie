@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin1064/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "しん板どうけ",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -22,24 +24,8 @@
             "value": "慶応２、９"
         },
         {
-            "label": "西暦",
-            "value": " "
-        },
-        {
             "label": "版元名",
             "value": "辻亀板"
-        },
-        {
-            "label": "版元住所",
-            "value": " "
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -60,10 +46,6 @@
         {
             "label": "検印",
             "value": "寅九改"
-        },
-        {
-            "label": "彫工",
-            "value": " "
         },
         {
             "label": "主題_主題",
@@ -88,14 +70,6 @@
         {
             "label": "分類細目３_細目",
             "value": "【分類細目】風刺画↓"
-        },
-        {
-            "label": "固有件名",
-            "value": " "
-        },
-        {
-            "label": "書誌事項",
-            "value": " "
         }
     ],
     "sequences": [

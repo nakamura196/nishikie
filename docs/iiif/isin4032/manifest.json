@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin4032/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "（四谷新宿正受院脱衣婆に諸人祈願の図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -22,24 +24,8 @@
             "value": "（嘉永２カ）"
         },
         {
-            "label": "西暦",
-            "value": " "
-        },
-        {
             "label": "版元名",
             "value": "＃辻岡屋文助"
-        },
-        {
-            "label": "版元住所",
-            "value": " "
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -62,10 +48,6 @@
             "value": "福／村松"
         },
         {
-            "label": "彫工",
-            "value": " "
-        },
-        {
             "label": "主題_主題",
             "value": "【主題分類】文明開化／仏教↓"
         },
@@ -80,10 +62,6 @@
         {
             "label": "書誌事項",
             "value": "武江年表に「嘉永２年…今年より四谷新宿後正受院安置の奪衣婆の像へ諸願をかくる事おこなはれ、日毎に参詣群集し百度参等をなす」とあり"
-        },
-        {
-            "label": "書誌事項続き",
-            "value": " "
         }
     ],
     "sequences": [

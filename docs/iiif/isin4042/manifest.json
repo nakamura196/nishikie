@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin4042/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "東京家宝力競（とうけいかはうちからくらべ）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -20,26 +22,6 @@
         {
             "label": "時代",
             "value": "（明治７年カ）"
-        },
-        {
-            "label": "西暦",
-            "value": " "
-        },
-        {
-            "label": "版元名",
-            "value": " "
-        },
-        {
-            "label": "版元住所",
-            "value": " "
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -62,10 +44,6 @@
             "value": "なし"
         },
         {
-            "label": "彫工",
-            "value": " "
-        },
-        {
             "label": "主題_主題",
             "value": "【主題分類】商業／長者↓"
         },
@@ -79,7 +57,7 @@
         },
         {
             "label": "書誌事項",
-            "value": "三谷のことばに「こいつハ一ばんしくぢった人も三谷だがいぶんのわりひ」とあり→明治７か　池田屋対伊勢吉　高崎対木場鹿嶋　えひすや対田端屋　鹿嶋対鴻磯　中条対竹原　小津対柏屋　大六対丁吟　井善対三ツ井　田庄対石町大三　三谷対仙波　よしや対キイ（かつおぶし）　"
+            "value": "三谷のことばに「こいつハ一ばんしくぢった人も三谷だがいぶんのわりひ」とあり→明治７か　池田屋対伊勢吉　高崎対木場鹿嶋　えひすや対田端屋　鹿嶋対鴻磯　中条対竹原　小津対柏屋　大六対丁吟　井善対三ツ井　田庄対石町大三　三谷対仙波　よしや対キイ（かつおぶし）"
         },
         {
             "label": "書誌事項続き",

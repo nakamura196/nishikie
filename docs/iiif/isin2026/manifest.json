@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin2026/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "幼童遊び子をとろ子をとろ",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -22,24 +24,8 @@
             "value": "明治１、２"
         },
         {
-            "label": "西暦",
-            "value": " "
-        },
-        {
             "label": "版元名",
             "value": "丸平"
-        },
-        {
-            "label": "版元住所",
-            "value": " "
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -62,10 +48,6 @@
             "value": "辰二改"
         },
         {
-            "label": "彫工",
-            "value": " "
-        },
-        {
             "label": "主題_主題",
             "value": "【主題分類】戊辰戦争／↓"
         },
@@ -80,10 +62,6 @@
         {
             "label": "書誌事項",
             "value": "薩、尾張、亀甲＝土州、藤堂、＃岡山、立花、長州、一橋、南部、米沢、桑名、会津、姫路　０３８０−１７−１−（２２）も同一"
-        },
-        {
-            "label": "書誌事項続き",
-            "value": " "
         }
     ],
     "sequences": [

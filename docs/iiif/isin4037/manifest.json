@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin4037/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "吉例兎の年礼噺",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -22,24 +24,8 @@
             "value": "明治５、１１"
         },
         {
-            "label": "西暦",
-            "value": " "
-        },
-        {
             "label": "版元名",
             "value": "＃ゑかつ（古賀屋勝五郎）"
-        },
-        {
-            "label": "版元住所",
-            "value": " "
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -62,10 +48,6 @@
             "value": "壬申十一"
         },
         {
-            "label": "彫工",
-            "value": " "
-        },
-        {
             "label": "主題_主題",
             "value": "【主題分類】風俗／↓"
         },
@@ -76,14 +58,6 @@
         {
             "label": "固有件名",
             "value": "（その他）養兎流行"
-        },
-        {
-            "label": "書誌事項",
-            "value": " "
-        },
-        {
-            "label": "書誌事項続き",
-            "value": " "
         }
     ],
     "sequences": [

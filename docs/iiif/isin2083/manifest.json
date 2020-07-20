@@ -2,7 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin2083/manifest.json",
     "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
     "label": "狂斎百狂どふけ百万編",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
@@ -22,24 +24,12 @@
             "value": "元治１、３"
         },
         {
-            "label": "西暦",
-            "value": " "
-        },
-        {
             "label": "版元名",
             "value": "大金"
         },
         {
             "label": "版元住所",
             "value": "ツキジ"
-        },
-        {
-            "label": "版数",
-            "value": " "
-        },
-        {
-            "label": "刷数",
-            "value": " "
         },
         {
             "label": "刷版",
@@ -60,10 +50,6 @@
         {
             "label": "検印",
             "value": "子三改"
-        },
-        {
-            "label": "彫工",
-            "value": " "
         },
         {
             "label": "主題_主題",
@@ -88,10 +74,6 @@
         {
             "label": "書誌事項",
             "value": "「ぶしの大当」の文字あり　０３８０−１３−（２５）も同一"
-        },
-        {
-            "label": "書誌事項続き",
-            "value": " "
         }
     ],
     "sequences": [
