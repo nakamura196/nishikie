@@ -82,7 +82,7 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/e0000036.jpg"
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin2l/le000036.jpg"
                     },
                     "width": 862
                 },
@@ -107,7 +107,7 @@
                     ],
                     "label": "[2]",
                     "thumbnail": {
-                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/e0000035.jpg"
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin2l/le000035.jpg"
                     },
                     "width": 863
                 }
@@ -116,5 +116,5 @@
             "viewingHint": "non-paged"
         }
     ],
-    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/e0000036.jpg"
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin2l/le000036.jpg"
 }

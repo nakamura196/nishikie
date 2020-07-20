@@ -86,7 +86,7 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/b0000099.jpg"
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lb000099.jpg"
                     },
                     "width": 873
                 }
@@ -95,5 +95,5 @@
             "viewingHint": "non-paged"
         }
     ],
-    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/b0000099.jpg"
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lb000099.jpg"
 }

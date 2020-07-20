@@ -107,7 +107,7 @@ for id in files:
                 index = str(1 + len(canvases))
 
                 if index == "1":
-                    thumbnail = prefix2 + "/" + img
+                    thumbnail = prefix2 + "/" + href3 # prefix2 + "/" + img
 
                 canvas = {
                     "@id": prefix + "/" + id2 + "/canvas/p"+index,
@@ -131,7 +131,7 @@ for id in files:
                     ],
                     "label": "["+index+"]",
                     "thumbnail": {
-                        "@id": prefix2 + "/" + img
+                        "@id": prefix2 + "/" + href3, # prefix2 + "/" + img
                     }
                 }
                 canvases.append(canvas)
