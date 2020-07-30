@@ -99,18 +99,23 @@ for i in range(len(cs_array)):
     
     manifest = manifests[i]
 
+    uri =  manifest["@id"]
+    id = uri.split("/")[-2]
+
     arr = sorted(range(len(row)), key=lambda k: row[k], reverse=True)
 
     texts = []
 
-    for j in range(1, 1 + size):
+    for j in range(0, 1 + size):
         index = arr[j]
-        id = manifests[index]["@id"]
-        texts.append(id)
+        id2 = manifests[index]["@id"]
+
+        if ids != uri:
+            texts.append(id2)
 
     manifest["texts"] = texts
 
-    id = manifest["@id"].split("/")[-2]
+    
 
     path = "../docs/iiif/"+id+"/manifest.json"
 
