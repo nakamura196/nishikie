@@ -73,6 +73,9 @@ for id in files:
                 if value2 == "":
                     continue
                 
+                value2 = value2.replace("【主題分類】", "")
+                value2 = value2.replace("【分類細目】", "")
+                value2 = value2.replace("↓", "")
 
                 if label2 == "タイトル":
                     label = value2
