@@ -63,13 +63,14 @@ for id in sorted(id_index_map):
 
     similar_images = []
 
-    for i in range(1, len(indexes)):
+    for i in range(0, len(indexes)):
 
         target_index = indexes[i]
 
         target_id = index_id_map[target_index]
 
-        similar_images.append(target_id)
+        if id != target_id:
+            similar_images.append(target_id)
 
     fw = open(opath, 'w')
     json.dump(similar_images, fw, ensure_ascii=False, indent=4,
