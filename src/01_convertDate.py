@@ -175,7 +175,8 @@ for id in files:
                     sort_keys=True, separators=(',', ': '))
 
 
-
+'''
 fw = open("../docs/iiif/top.json", 'w')
 json.dump(top, fw, ensure_ascii=False, indent=4,
           sort_keys=True, separators=(',', ': '))
+'''

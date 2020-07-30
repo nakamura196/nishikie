@@ -108,5 +108,27 @@
             "viewingHint": "non-paged"
         }
     ],
+    "texts": [
+        "https://nakamura196.github.io/nishikie/iiif/isin1027/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1026/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin2054/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin4009/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1013/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1029/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin2038/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin2060/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin4008/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1007/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1025/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin2039/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1036/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1001/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1002/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1003/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1004/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1005/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1006/manifest.json",
+        "https://nakamura196.github.io/nishikie/iiif/isin1008/manifest.json"
+    ],
     "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin2l/ld000078.jpg"
 }
