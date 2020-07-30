@@ -110,7 +110,7 @@ for i in range(len(cs_array)):
         index = arr[j]
         id2 = manifests[index]["@id"]
 
-        if ids != uri:
+        if id2 != uri:
             texts.append(id2)
 
     manifest["texts"] = texts
