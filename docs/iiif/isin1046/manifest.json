@@ -3,28 +3,6 @@
     "@id": "https://nakamura196.github.io/nishikie/iiif/isin1046/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "images": [
-        "https://nakamura196.github.io/nishikie/iiif/isin1045/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1007/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1023/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1008/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1049/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1020/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin4005/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1026/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin4042/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1029/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1051/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin4020/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin4041/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1034/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin4007/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin4010/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin2039/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin2075/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1033/manifest.json",
-        "https://nakamura196.github.io/nishikie/iiif/isin1014/manifest.json"
-    ],
     "label": "世の中のおなしすかたを列へたて音のよしあし虫にきかせん",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
@@ -78,7 +56,58 @@
         {
             "@id": "https://nakamura196.github.io/nishikie/iiif/isin1046/sequence/normal",
             "@type": "sc:Sequence",
-            "canvases": [],
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1046/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1348,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin1046/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin1046/canvas/p1",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000065.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1348,
+                                "width": 879
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000065.jpg"
+                    },
+                    "width": 879
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1046/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1350,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/nishikie/iiif/isin1046/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/nishikie/iiif/isin1046/canvas/p2",
+                            "resource": {
+                                "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000064.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1350,
+                                "width": 878
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000064.jpg"
+                    },
+                    "width": 878
+                }
+            ],
             "label": "Current Page Order",
             "viewingHint": "non-paged"
         }
@@ -105,5 +134,5 @@
         "https://nakamura196.github.io/nishikie/iiif/isin2075/manifest.json",
         "https://nakamura196.github.io/nishikie/iiif/isin2087/manifest.json"
     ],
-    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000063.jpg"
+    "thumbnail": "https://www.hi.u-tokyo.ac.jp/personal/yokoyama/nishikie/ishin1l/lc000065.jpg"
 }

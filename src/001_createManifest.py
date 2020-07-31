@@ -53,6 +53,8 @@ for id in files:
             href = aas[0].get("href")
 
             id2 = href.split(".")[0]
+
+            
             
             file2 = "../data/html/"+href
 
@@ -86,7 +88,10 @@ for id in files:
                     })
 
             href3 = aas[1].get("href")
-            print(href3)
+            # print(href3)
+
+            # バグ対応
+            href3 = href3.replace("isin", "istn")
 
             file3 = "../data/html/"+href3
 
@@ -98,6 +103,8 @@ for id in files:
 
             canvases = []
 
+            thumbnail = None
+
             for a3 in aas3:
                 href3 = a3.get("href")
                 img = a3.find("img").get("src")
@@ -105,7 +112,7 @@ for id in files:
                 im = Image.open("../data/html/" + href3)
                 w, h = im.size
 
-                print(href3, img, w, h)
+                # print(href3, img, w, h)
 
                 index = str(1 + len(canvases))
 
@@ -139,7 +146,8 @@ for id in files:
                 }
                 canvases.append(canvas)
 
-            
+            if len(canvases) == 0:
+                print("len c 0", id2)            
 
             manifest = {
                 "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -161,6 +169,9 @@ for id in files:
                 ]
             }
 
+            if thumbnail:
+                manifest["thumbnail"] = thumbnail
+
             manifest["metadata"] = metadata
 
             manifests.append(manifest)
@@ -170,13 +181,8 @@ for id in files:
 
             os.makedirs(mdir, exist_ok=True)
 
+            
             fw = open(mpath, 'w')
             json.dump(manifest, fw, ensure_ascii=False, indent=4,
                     sort_keys=True, separators=(',', ': '))
-
-
-'''
-fw = open("../docs/iiif/top.json", 'w')
-json.dump(top, fw, ensure_ascii=False, indent=4,
-          sort_keys=True, separators=(',', ': '))
-'''
+            

@@ -58,7 +58,9 @@ for manifest in manifests:
     thumbnail = manifest["thumbnail"]
     print(id, thumbnail)
 
-    download_img(thumbnail, "data/image/"+id+".jpg")
+    path = "data/image/"+id+".jpg"
+    if not os.path.exists(path):
+        download_img(thumbnail, path)
 
 
 # print(collection)
