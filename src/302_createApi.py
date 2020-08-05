@@ -31,7 +31,7 @@ path = "../docs/json/api.json"
 with open(path) as f:
     results = json.load(f)
 
-# results = []
+results = []
 
 uris = []
 

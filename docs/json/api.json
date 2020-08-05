@@ -2,6 +2,11 @@
     {
         "@context": "https://diyhistory.org/public/omekas3a/api-context",
         "@id": "http://www.wikidata.org/entity/Q191163",
+        "dbo:wikiPageWikiLink": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798"
+            }
+        ],
         "rdfs:label": [
             {
                 "@value": "風景画"
@@ -51,6 +56,9 @@
                 "@id": "http://www.wikidata.org/entity/Q287657"
             },
             {
+                "@id": "http://www.wikidata.org/entity/Q1065356"
+            },
+            {
                 "@id": "http://www.wikidata.org/entity/Q348466"
             }
         ],
@@ -82,6 +90,12 @@
         "dbo:wikiPageWikiLink": [
             {
                 "@id": "http://www.wikidata.org/entity/Q287657"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356"
             },
             {
                 "@id": "http://www.wikidata.org/entity/Q348466"
@@ -134,10 +148,19 @@
         "@id": "http://www.wikidata.org/entity/Q1323770",
         "dbo:wikiPageWikiLink": [
             {
+                "@id": "http://www.wikidata.org/entity/Q569487"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q748"
+            },
+            {
                 "@id": "http://www.wikidata.org/entity/Q348466"
             },
             {
                 "@id": "http://www.wikidata.org/entity/Q287657"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q46603"
             },
             {
                 "@id": "http://www.wikidata.org/entity/Q716940"
@@ -240,6 +263,9 @@
         "@id": "http://www.wikidata.org/entity/Q11610552",
         "dbo:wikiPageWikiLink": [
             {
+                "@id": "http://www.wikidata.org/entity/Q309184"
+            },
+            {
                 "@id": "http://www.wikidata.org/entity/Q348466"
             }
         ],
@@ -259,13 +285,22 @@
         "@id": "http://www.wikidata.org/entity/Q716940",
         "dbo:wikiPageWikiLink": [
             {
+                "@id": "http://www.wikidata.org/entity/Q1065356"
+            },
+            {
                 "@id": "http://www.wikidata.org/entity/Q1323770"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q46603"
             },
             {
                 "@id": "http://www.wikidata.org/entity/Q348466"
             },
             {
                 "@id": "http://www.wikidata.org/entity/Q287657"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487"
             }
         ],
         "dbp:主君": [
@@ -280,7 +315,7 @@
         ],
         "schema:description": [
             {
-                "@value": "井伊 直弼（いい なおすけ）は、幕末の譜代大名。近江彦根藩の第15代藩主。幕末期の江戸幕府にて大老を務め、日米修好通商条約に調印し、日本の開国近代化を断行した。また、強権をもって国内の反対勢力を粛清したが（安政の大獄）、それらの反動を受けて暗殺された（桜田門外の変）。"
+                "@value": "江戸時代の大名、大老"
             }
         ],
         "schema:image": [
@@ -305,7 +340,16 @@
         ],
         "dbo:wikiPageWikiLink": [
             {
+                "@id": "http://www.wikidata.org/entity/Q46603"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q139871"
+            },
+            {
                 "@id": "http://www.wikidata.org/entity/Q1323770"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487"
             },
             {
                 "@id": "http://www.wikidata.org/entity/Q715559"
@@ -348,6 +392,15 @@
             }
         ],
         "dbo:wikiPageWikiLink": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q46603"
+            },
             {
                 "@id": "http://www.wikidata.org/entity/Q287657"
             },
