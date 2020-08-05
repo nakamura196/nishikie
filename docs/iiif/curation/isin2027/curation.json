@@ -1,0 +1,207 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2027/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2027/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/canvas/p1#xywh=212,672,84,175",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.37941107"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "212,672,84,175"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/canvas/p1#xywh=19,743,231,458",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.5653617"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "19,743,231,458"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/canvas/p1#xywh=318,625,172,364",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.7632458"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "318,625,172,364"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/canvas/p1#xywh=6,619,165,276",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.9591747"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "6,619,165,276"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/canvas/p2#xywh=530,974,204,316",
+                    "@type": "sc:Canvas",
+                    "label": "teddy bear",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.31220376"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "530,974,204,316"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "teddy bear"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/canvas/p2#xywh=31,613,198,211",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.40361023"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "31,613,198,211"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/canvas/p2#xywh=668,620,186,299",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.51787263"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "668,620,186,299"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/canvas/p2#xywh=530,974,204,316",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.8312858"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "530,974,204,316"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "常盤津稽古所"
+            }
+        }
+    ]
+}

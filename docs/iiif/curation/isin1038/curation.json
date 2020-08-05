@@ -1,0 +1,115 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin1038/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin1038/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1038/canvas/p1#xywh=61,758,302,525",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.77453697"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "61,758,302,525"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1038/canvas/p1#xywh=264,414,297,647",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.99279493"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "264,414,297,647"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1038/canvas/p2#xywh=21,418,434,699",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.6318146"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "21,418,434,699"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1038/canvas/p2#xywh=523,504,305,698",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.92998534"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "523,504,305,698"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin1038/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "（大錫杖を武士２名倒さんとするの図)"
+            }
+        }
+    ]
+}

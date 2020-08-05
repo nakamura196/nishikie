@@ -1,0 +1,69 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2075/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2075/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2075/canvas/p1#xywh=186,392,122,206",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.416253"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "186,392,122,206"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2075/canvas/p1#xywh=630,565,116,268",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.5966166"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "630,565,116,268"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2075/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "花見の戯"
+            }
+        }
+    ]
+}

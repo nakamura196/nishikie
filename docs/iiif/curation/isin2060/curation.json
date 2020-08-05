@@ -1,0 +1,69 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2060/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2060/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2060/canvas/p1#xywh=0,104,870,1131",
+                    "@type": "sc:Canvas",
+                    "label": "pottedplant",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.38455626"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "0,104,870,1131"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "pottedplant"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2060/canvas/p1#xywh=0,104,870,1131",
+                    "@type": "sc:Canvas",
+                    "label": "umbrella",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.35468948"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "0,104,870,1131"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "umbrella"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2060/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "夏の夜虫合戦"
+            }
+        }
+    ]
+}

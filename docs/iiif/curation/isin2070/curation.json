@@ -1,0 +1,46 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2070/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2070/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2070/canvas/p1#xywh=0,99,855,1161",
+                    "@type": "sc:Canvas",
+                    "label": "umbrella",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.47984928"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "0,99,855,1161"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "umbrella"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2070/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "花軍児童戯（はないくさわらべのたはむれ）"
+            }
+        }
+    ]
+}

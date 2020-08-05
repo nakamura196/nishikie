@@ -1,0 +1,92 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2099/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2099/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2099/canvas/p1#xywh=474,860,97,151",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.5388887"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "474,860,97,151"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2099/canvas/p2#xywh=0,72,862,1248",
+                    "@type": "sc:Canvas",
+                    "label": "refrigerator",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.98032326"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "0,72,862,1248"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "refrigerator"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2099/canvas/p2#xywh=310,794,117,193",
+                    "@type": "sc:Canvas",
+                    "label": "person",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.31401166"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "310,794,117,193"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "person"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2099/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "世の中いろはたとへ"
+            }
+        }
+    ]
+}

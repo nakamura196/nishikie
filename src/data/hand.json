@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://diyhistory.org/public/omekas3a/api-context",
+    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1001/manifest.json",
+    "schema:subject": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q317736",
+        "o:label" : "歌川国芳"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q128758",
+        "o:label" : "風刺"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q569487",
+        "o:label" : "安政の大獄"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q7684",
+        "o:label" : "1858"
+      }
+    ]
+  },
+  {
+    "@context": "https://diyhistory.org/public/omekas3a/api-context",
+    "@id": "https://nakamura196.github.io/nishikie/iiif/isin1007/manifest.json",
+    "schema:subject": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q200798",
+        "o:label" : "歌川広重"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q12090",
+        "o:label" : "コレラ"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q12136",
+        "o:label" : "病気"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q128758",
+        "o:label" : "風刺"
+      }
+    ]
+  }
+]

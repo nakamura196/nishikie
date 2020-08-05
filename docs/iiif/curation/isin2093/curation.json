@@ -1,0 +1,69 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2093/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2093/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2093/canvas/p1#xywh=456,831,201,265",
+                    "@type": "sc:Canvas",
+                    "label": "cup",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.6272387"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "456,831,201,265"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "cup"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2093/canvas/p2#xywh=57,903,412,336",
+                    "@type": "sc:Canvas",
+                    "label": "horse",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.5031741"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "57,903,412,336"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "horse"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2093/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "家内楽金銭遊セル図（かないたのしむきんせんをあそはせるづ）"
+            }
+        }
+    ]
+}

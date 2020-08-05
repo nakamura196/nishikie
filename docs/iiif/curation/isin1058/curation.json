@@ -1,0 +1,22 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin1058/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin1058/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin1058/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "浮世又平師匠の追善に百万べんをする図"
+            }
+        }
+    ]
+}

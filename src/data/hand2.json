@@ -1,0 +1,2442 @@
+[
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1001/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1002/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1323770",
+                "o:label": "徳川斉昭"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1003/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1323770",
+                "o:label": "徳川斉昭"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1004/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q716940",
+                "o:label": "井伊直弼"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q287657",
+                "o:label": "徳川慶喜"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q348466",
+                "o:label": "徳川家茂"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1005/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1323770",
+                "o:label": "徳川斉昭"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q716940",
+                "o:label": "井伊直弼"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1006/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1007/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q12136",
+                "o:label": "病気"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q12090",
+                "o:label": "コレラ"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1008/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q3178301",
+                "o:label": "歌川芳艶"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1009/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q716940",
+                "o:label": "井伊直弼"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1012/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1013/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q742333",
+                "o:label": "歴史画"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1014/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q139871",
+                "o:label": "禁門の変"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q287657",
+                "o:label": "徳川慶喜"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1015/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1016/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1017/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11545189",
+                "o:label": "歌川芳盛"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q139871",
+                "o:label": "禁門の変"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1639284",
+                "o:label": "お化け"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1018/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1068521",
+                "o:label": "王政復古"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1019/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q3178301",
+                "o:label": "歌川芳艶"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1020/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q569487",
+                "o:label": "安政の大獄"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1021/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1022/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1401167",
+                "o:label": "かごめかごめ"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1023/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1024/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1025/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q2838030",
+                "o:label": "河鍋暁斎"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1026/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1027/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1029/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1031/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1032/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1033/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11545194",
+                "o:label": "歌川芳藤"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1034/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1035/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1036/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q11060547",
+                "o:label": "幕府"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1037/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q40561",
+                "o:label": "相撲"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1038/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1039/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1040/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1041/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1042/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1043/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1044/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1045/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q139871",
+                "o:label": "禁門の変"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1639284",
+                "o:label": "お化け"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1046/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1047/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1048/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1049/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q40561",
+                "o:label": "相撲"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1051/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q3075041",
+                "o:label": "歌川芳虎"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1054/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11545194",
+                "o:label": "歌川芳藤"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1055/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1056/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1057/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1058/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1059/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q46603",
+                "o:label": "桜田門外の変"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1061/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11545189",
+                "o:label": "歌川芳盛"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1063/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin1067/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1068521",
+                "o:label": "王政復古"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2001/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2002/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2003/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2004/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2005/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q287657",
+                "o:label": "徳川慶喜"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2006/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2007/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q139871",
+                "o:label": "禁門の変"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q287657",
+                "o:label": "徳川慶喜"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2008/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2009/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1068521",
+                "o:label": "王政復古"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2010/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2011/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2012/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2013/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2014/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2015/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2016/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2017/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2018/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2019/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2020/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q40561",
+                "o:label": "相撲"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2021/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2022/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2023/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2024/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2025/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2026/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1401167",
+                "o:label": "かごめかごめ"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2027/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2028/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2029/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2030/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2031/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2032/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2033/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2034/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2035/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1401167",
+                "o:label": "かごめかごめ"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2036/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2037/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2038/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2039/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2040/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2041/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2042/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2043/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2044/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2045/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2046/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2047/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2048/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2049/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2050/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2051/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2052/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2053/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2054/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2055/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2056/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2057/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2058/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q40561",
+                "o:label": "相撲"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2059/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2060/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2061/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2062/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2063/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2064/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2065/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1639284",
+                "o:label": "お化け"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2066/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2067/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2068/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2069/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2070/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2071/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2072/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2073/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2074/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2075/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2076/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2077/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2078/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2079/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2080/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2081/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2082/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2083/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q2838030",
+                "o:label": "河鍋暁斎"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2084/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2086/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2087/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2088/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2089/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2090/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2091/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11235215",
+                "o:label": "東京行幸"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2092/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2096/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q715559",
+                "o:label": "江戸開城"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2097/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11545189",
+                "o:label": "歌川芳盛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2098/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q3075041",
+                "o:label": "歌川芳虎"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2099/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2100/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2101/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q40561",
+                "o:label": "相撲"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2102/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10931495",
+                "o:label": "士族反乱"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q714820",
+                "o:label": "西南戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2103/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10931495",
+                "o:label": "士族反乱"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q714820",
+                "o:label": "西南戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin2104/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10931495",
+                "o:label": "士族反乱"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q714820",
+                "o:label": "西南戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4001/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q139871",
+                "o:label": "禁門の変"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4002/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q11610552",
+                "o:label": "翔鶴丸"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4003/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11610552",
+                "o:label": "翔鶴丸"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4004/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q139871",
+                "o:label": "禁門の変"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4005/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4006/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q2838030",
+                "o:label": "河鍋暁斎"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4007/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4008/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/長州征伐",
+                "o:label": "長州征伐"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q139871",
+                "o:label": "禁門の変"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4009/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q742333",
+                "o:label": "歴史画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4010/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q2838030",
+                "o:label": "河鍋暁斎"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4012/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q12136",
+                "o:label": "病気"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q79793",
+                "o:label": "麻疹"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4013/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q742333",
+                "o:label": "歴史画"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q700324",
+                "o:label": "文明開化"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q748",
+                "o:label": "仏教"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4014/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q11060547",
+                "o:label": "幕府"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4015/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q2838030",
+                "o:label": "河鍋暁斎"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q10867576",
+                "o:label": "上洛"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4016/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4017/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q200798",
+                "o:label": "歌川広重"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4018/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q700324",
+                "o:label": "文明開化"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q748",
+                "o:label": "仏教"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4019/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q2838030",
+                "o:label": "河鍋暁斎"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4020/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q2838030",
+                "o:label": "河鍋暁斎"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4021/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4022/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4023/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q3839081",
+                "o:label": "災害"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4024/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4025/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4026/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q3178301",
+                "o:label": "歌川芳艶"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q12136",
+                "o:label": "病気"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q79793",
+                "o:label": "麻疹"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4027/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11545189",
+                "o:label": "歌川芳盛"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q12136",
+                "o:label": "病気"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q79793",
+                "o:label": "麻疹"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4028/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q12136",
+                "o:label": "病気"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q12090",
+                "o:label": "コレラ"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4029/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q309184",
+                "o:label": "戊辰戦争"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4031/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1341659",
+                "o:label": "怪談"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4032/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q700324",
+                "o:label": "文明開化"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q748",
+                "o:label": "仏教"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q511574",
+                "o:label": "奪衣婆"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4033/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q511574",
+                "o:label": "奪衣婆"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q700324",
+                "o:label": "文明開化"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q748",
+                "o:label": "仏教"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4034/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q511574",
+                "o:label": "奪衣婆"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q317736",
+                "o:label": "歌川国芳"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q700324",
+                "o:label": "文明開化"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q748",
+                "o:label": "仏教"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4035/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q3075041",
+                "o:label": "歌川芳虎"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q700324",
+                "o:label": "文明開化"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q748",
+                "o:label": "仏教"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q511574",
+                "o:label": "奪衣婆"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4036/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q1065356",
+                "o:label": "尊皇攘夷"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q546075",
+                "o:label": "生麦事件"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4038/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/有卦絵",
+                "o:label": "有卦絵"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4039/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/有卦絵",
+                "o:label": "有卦絵"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4040/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q711511",
+                "o:label": "自由民権運動"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4041/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q742333",
+                "o:label": "歴史画"
+            }
+        ]
+    },
+    {
+        "@context": "https://diyhistory.org/public/omekas3a/api-context",
+        "@id": "https://nakamura196.github.io/nishikie/iiif/isin4043/manifest.json",
+        "schema:subject": [
+            {
+                "@id": "http://www.wikidata.org/entity/Q11676434",
+                "o:label": "鷺沼城"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q191163",
+                "o:label": "風景画"
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2047/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2047/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2047/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "天正年中上杉謙信上洛之折から諸民太平お願て親み賜お図"
+            }
+        }
+    ]
+}

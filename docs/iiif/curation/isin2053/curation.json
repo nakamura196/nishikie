@@ -1,0 +1,22 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2053/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2053/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2053/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "道外茶ばん忠臣蔵四段目"
+            }
+        }
+    ]
+}

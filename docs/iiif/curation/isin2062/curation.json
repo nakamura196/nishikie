@@ -1,0 +1,92 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2062/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin2062/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2062/canvas/p1#xywh=21,445,609,863",
+                    "@type": "sc:Canvas",
+                    "label": "umbrella",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.35497603"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "21,445,609,863"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "umbrella"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2062/canvas/p2#xywh=20,402,369,284",
+                    "@type": "sc:Canvas",
+                    "label": "umbrella",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.5466049"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "20,402,369,284"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "umbrella"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin2062/canvas/p2#xywh=399,628,429,349",
+                    "@type": "sc:Canvas",
+                    "label": "umbrella",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.7026152"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "399,628,429,349"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "umbrella"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin2062/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "東京雨天のつれつれ（とうけいうてんのつれつれ）"
+            }
+        }
+    ]
+}

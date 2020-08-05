@@ -1,0 +1,69 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin4041/curation.json",
+    "@type": "cr:Curation",
+    "label": "Character List",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/nishikie/iiif/curation/isin4041/range1",
+            "@type": "sc:Range",
+            "label": "Characters",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4041/canvas/p1#xywh=324,393,196,259",
+                    "@type": "sc:Canvas",
+                    "label": "dog",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.3792764"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "324,393,196,259"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "dog"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/nishikie/iiif/isin4041/canvas/p1#xywh=518,280,295,248",
+                    "@type": "sc:Canvas",
+                    "label": "dog",
+                    "metadata": [
+                        {
+                            "label": "Method",
+                            "value": "YOLO v3"
+                        },
+                        {
+                            "label": "Score",
+                            "value": "0.90987265"
+                        },
+                        {
+                            "label": "Thumbnail Region",
+                            "value": "518,280,295,248"
+                        },
+                        {
+                            "label": "Tag",
+                            "value": "dog"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/nishikie/iiif/isin4041/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "東京開化名勝記雑司ヶ谷道山吹之井戸"
+            }
+        }
+    ]
+}
